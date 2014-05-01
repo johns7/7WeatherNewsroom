@@ -1,8 +1,9 @@
-package cse.fau.edu.group3.news;
+package cse.fau.edu.group8.news;
 
 import java.util.ArrayList;
 import java.util.List;
-import cse.fau.edu.group3.news.R;
+
+import cse.fau.edu.group8.news.R;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;

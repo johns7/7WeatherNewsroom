@@ -1,5 +1,6 @@
-package cse.fau.edu.group3.news;
+package cse.fau.edu.group8.news;
 
+import cse.fau.edu.group8.news.R;
 import android.os.Bundle;
 import android.app.Activity;
 import android.app.AlertDialog;

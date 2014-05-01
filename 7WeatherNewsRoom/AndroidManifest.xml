@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="cse.fau.edu.group3.news"
+    package="cse.fau.edu.group8.news"
     android:versionCode="3"
     android:versionName="1.02" >
 
@@ -28,19 +28,19 @@
             </intent-filter>
         </receiver>
         <activity
-            android:name="cse.fau.edu.group3.news.PhotoGallery"
+            android:name="cse.fau.edu.group8.news.PhotoGallery"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
             android:theme="@style/FullscreenTheme" >
         </activity>
         <activity
-            android:name="cse.fau.edu.group3.news.PreviewCamera"
+            android:name="cse.fau.edu.group8.news.PreviewCamera"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:label="@string/app_name"
             android:theme="@style/FullscreenTheme" >
         </activity>
         <activity
-            android:name="cse.fau.edu.group3.news.NewsRoomMenu"
+            android:name="cse.fau.edu.group8.news.NewsRoomMenu"
             android:label="@string/title_activity_news_room_menu" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

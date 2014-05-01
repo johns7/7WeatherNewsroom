@@ -1,4 +1,4 @@
-package cse.fau.edu.group3.news;
+package cse.fau.edu.group8.news;
 
 import java.io.File;
 import java.io.FileOutputStream;
